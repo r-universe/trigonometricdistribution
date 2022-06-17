@@ -1,0 +1,18 @@
+[
+  {
+    "package": "CosW",
+    "oncran": true
+  },
+  {
+    "package": "SecKW",
+    "oncran": true
+  },
+  {
+    "package": "SinIW",
+    "oncran": true
+  },
+  {
+    "package": "TanB",
+    "oncran": true
+  }
+]

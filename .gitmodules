@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CosW"]
+	path = CosW
+	url = https://github.com/trigonometricdistribution/cosw
+	shallow = true
+	registered = true
+[submodule "SecKW"]
+	path = SecKW
+	url = https://github.com/trigonometricdistribution/seckw
+	shallow = true
+	registered = true
+[submodule "SinIW"]
+	path = SinIW
+	url = https://github.com/trigonometricdistribution/siniw
+	shallow = true
+	registered = true
+[submodule "TanB"]
+	path = TanB
+	url = https://github.com/trigonometricdistribution/tanb
+	shallow = true
+	registered = true
